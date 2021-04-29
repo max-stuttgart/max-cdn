@@ -1,5 +1,5 @@
 
-<img src="./assets/img/logo/max-logo-svg.svg" width="128px">
+<img src="https://github.com/max-stuttgart/max-cdn/blob/stable/images/logo/max-logo-svg.svg" width="128px">
 
     
 # MAX-Stuttgart | Homepage
