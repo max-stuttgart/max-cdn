@@ -2,25 +2,22 @@
 <img src="./assets/img/logo/max-logo-svg.svg" width="128px">
 
     
-# MAX-Stuttgart | Homepage
+# MAX-Stuttgart | Content Network
 
-This is the respository for the Homepage of max-stuttgart.de. Everything which is assoiciated for the homegae can be found in this respository. For further questions, please contact the authors
-
+This repository delivers all content related files for the whole MAX-Stuttgart Network. 
 
 ## Latest Changes
 
-- Additional screen support (Mobile, etc)
+- Added Folders for fonts images and global code
 
-- Complete page sections
+- Added Images: Logo, Favicon
 
 - Added readme file
 
-- cleaned up the CSS File
+
 
   
-## Documentation
 
-[Coming soon](about:blank)
 
   
 ## Authors
@@ -32,11 +29,4 @@ This is the respository for the Homepage of max-stuttgart.de. Everything which i
 ## License
 
 [MAX-Software-Solutions](https://license.max-stuttgart.de/)
-
-  
-## Languages used in this repository
-
-
-**Server:** HTML, CSS, JavaScript
-
   
